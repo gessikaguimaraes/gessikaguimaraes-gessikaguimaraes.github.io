@@ -1,0 +1,125 @@
+{
+    "sobre": {
+        "descricao": [
+            "Aprendir a programar na faculdade Alfa onde me formei em Bacharelado em Engenharia da Computação (2009 - 2013). ",
+            "Atuo como profissional na área de desenvolvimento de software há mais de 7 anos.",
+            "Atualmente, estou trabalhando como desenvolvedora FullStack na Stefanini para o cliente Fachesf. Minhas responsabilidades inclui desenvolver e dar manutenção em varios sistemas com diversas tecnologias.",
+            "Estou em busca de desenvolvimento de minhas habilidades em Frontend."
+        ],
+        "tecnologias": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "TypeScript",
+            "Java",
+            "JSP",
+            "ReactJS",
+            "React Native",
+            "Flutter",
+            "Spring MVC",
+            "Maven",
+            "Bootstrap",
+            "Netbeans",
+            "Visual Studio Code",
+            "Eclipse",
+            "JavaDB",
+            "MySQL",
+            "PostgreSQL",
+            "SQLSever"
+        ]
+    },
+    "experiencia": [
+        {
+            "empresa": "Stefanini",
+            "funcao": "Analista Desenvolvedor Pleno",
+            "periodo": "Julho 2022 - Presente",
+            "descricao": [
+                "Trabalho remoto alocada no cliente Fachesf",
+                "Tecnologias usadas: ReactJS, API Rest, Java, Spring, TypeScript, JavaScript, HTML, CSS, JSP "
+            ]
+        },
+        {
+            "empresa": "Trilog",
+            "funcao": "Analista de Sistema Junior",
+            "periodo": "Março 2015 - Junho 2022",
+            "descricao": [
+                "Desenvolvimento de Software voltados para os bancos de sangue",
+                "Desenvolvimento de aplicativos em React Native",
+                "Algumas tecnologias usadas no desenvolvimento: HTML, CSS, JSP, JavaScript, Spring, Maven, Hibernate e Java. "
+            ]
+        },
+        {
+            "empresa": "TJGO",
+            "funcao": "Estágio Suporte Técnico",
+            "periodo": "Novembro 2012 - Dezembro 2013",
+            "descricao": [
+                "Estagiaria da divisão de atendimento ao usuário presencial e remoto.",
+                "Auxiliar no suporte técnico ao usuário;",
+                "Acompanhamento de instalações de rede e micros;",
+                "Acompanhamento supervisionado de instalação de software;",
+                "Auxiliar na configuração de equipamentos, e-mail’s e impressoras."
+            ]
+        }
+    ],
+    "projetos": [
+        {
+            "nome": "Tic-Tac-Toe",
+            "descricao": "Jogo de quebra-cabeça desenvolvido para o estudo de aprendizado da biblioteca ReactJS",
+            "tecnologias": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "ReactJS"
+            ],
+            "github": "https://github.com/gessikaguimaraes/tic-tac-toe",
+            "app": ""
+        },
+        {
+            "nome": "Kanban",
+            "descricao": "É um quadro de atividades onde podemos: adicionar tarefas na lista, atualizar tarefas já adicionadas, deletar tarefas indesejadas e mover tarefas entre listas.",
+            "tecnologias": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "ReactJS"
+            ],
+            "github": "https://github.com/gessikaguimaraes/Kanban-ReactJS",
+            "app": "https://iezlfc.csb.app/"
+        },
+        {
+            "nome": "Labirinto",
+            "descricao": "É um jogo gratuito e fácil de jogar. Os níveis não são gerados aleatoriamente, todos feitos a mão",
+            "tecnologias": [
+                "GDScript",
+                "Godot Engine"
+            ],
+            "github": "",
+            "app": "https://play.google.com/store/apps/details?id=com.pinksplash.labirinto"
+        },
+        {
+            "nome": "Matemática Divertida",
+            "descricao": "Aprenda matemática resolvendo desafios, que ajuda a testar a sua mente. Com treinamento com cálculos de matemáticas que te ajuda a fazer cálculos de cabeça.",
+            "tecnologias": [
+                "Flutter"
+            ],
+            "github": "",
+            "app": "https://play.google.com/store/apps/details?id=com.pinksplash.matematica"
+        },
+        {
+            "nome": "Etanol ou Gasolina",
+            "descricao": "Descubra qual a melhor opção etanol ou gasolina e economize na hora de abastece seu carro flex.",
+            "tecnologias": [
+                "Flutter"
+            ],
+            "github": "",
+            "app": "https://play.google.com/store/apps/details?id=com.pinksplash.alcool.gasolina"
+        }
+    ],
+    "contato": {},
+    "redesSociais": {
+        "email": "gessika.156@gmail.com",
+        "discord": "",
+        "linkedin": "https://www.linkedin.com/in/gessikaguimaraes/",
+        "github": "https://github.com/gessikaguimaraes"
+    }
+}
