@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: rgb(2, 0, 36);
+  /* background: linear-gradient(177deg, rgba(2, 0, 36, 1) 44%, rgba(109, 37, 74, 1) 89%); */
+  height: 100vh;
+}
+
+.conteudo {
+  padding-bottom: 200px;
+  font-size: 20px;
+}
+
+.titulo {
+  /* color: rgb(250, 223, 241); */
+  color: rgb(204, 214, 246);
+  font-size: 32px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  /* margin: 10px 0 40px; */
+  /* width: 100%; */
+  white-space: nowrap;
+}
+
+.icone {
+  color: #ea097d;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+
+.apresentacao {
+  font-size: 17px;
+  color: #ea097d;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nome {
+  font-size: 80px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(204, 214, 246);
+}
+
+.texto {
+  color: rgb(191 198 219);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  width: 100%;
+  max-width: 600px;
+}
+
+hr {
+  border-color: #aaa;
+  box-sizing: border-box;
+  width: 300px;
+  margin-left: 20px;
+  margin-top: 35px;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .nav-link.active:hover,
+.nav-pills .nav-link.active:focus {
+  background-color: #ea097d;
+  color: rgb(204, 214, 246);
+  font-weight: 550;
+}
+
+.tab {
+  color: rgb(191 198 219);
+}
+
+.tab:hover {
+  color: #ea097d;
+}
+
+.funcao {
+  color: rgb(204, 214, 246);
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.periodo {
+  font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+  font-size: 13px;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  color: rgb(168, 178, 209);
+  margin-bottom: 30px;
+}
+
+.experienciaDescricao {
+  color: rgb(191 198 219);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+}
+
+.tab-pane {
+  margin-left: 40px;
+}
+
+.ul_tecnologias {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(140px, 200px));
+  align-items: flex-end;
+  padding: 18px;
+}
+
+.li_tecnologias {
+  /* list-style: none; */
+  font-size: 15px;
+  color: #ea097d;
+  font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+  line-height: 1.75;
+  margin-right: 15px;
+}
